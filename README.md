@@ -11,3 +11,28 @@
 
 ### A Front-End software engineer passionate about building Single Page Web-Applications
 
+
+
+<br>
+
+## Technologies & Skills
+
+My skillset includes, but is not limited to:
+
+#### Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+</div>
+
+### Frameworks/Libraries:
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  title="ANGULAR" alt="ANGULAR" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+</div>
+
+
+
