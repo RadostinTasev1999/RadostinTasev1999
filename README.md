@@ -1,4 +1,3 @@
-<div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{RadostinTasev1999}/count.svg" alt="Visitor's Count" />
 </div>
@@ -27,6 +26,8 @@ My skillset includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
+
+
 ### Frameworks/Libraries:
 
 <div>
@@ -34,5 +35,13 @@ My skillset includes, but is not limited to:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
 </div>
 
+<br />
 
-
+<div align="center">
+  <a href="https://www.yahoo.com/">
+    <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/radostin-tasev-360a6016b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
